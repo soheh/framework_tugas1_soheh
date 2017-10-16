@@ -1,0 +1,6 @@
+Lakukan
+- ssh-keygen -t -rsa -b 4096 -C "sohehjempol95@gmail.com"
+- git clone git@github.com:soheh/framework_tugas1_soheh.git
+- git add .
+- git commit -am master
+- git push 
